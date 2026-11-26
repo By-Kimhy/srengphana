@@ -4,12 +4,12 @@ export const wedding = {
   bride: {
     shortName: 'Phana',
     fullName: 'SamAng BorPhana',
-    fullNameKm: 'សំអាង បុរផាណា',
+    fullNameKm: 'សំអាង បូរផាណា',
     phone: '',
     photo: '/img/angkor6.jpg',
     quote: {
       en: 'Hi, I am Phana. He is every beautiful thing I have ever wished for — just at the right moment.',
-      km: 'សួស្តី នាងខ្ញុំឈ្មោះបុរផាណា គាត់គឺជាមនុស្សល្អបំផុតដែលខ្ញុំបានជួប។',
+      km: 'សួស្តី នាងខ្ញុំឈ្មោះបូរផាណា គាត់គឺជាមនុស្សល្អបំផុតដែលខ្ញុំបានជួប។',
     },
   },
   groom: {
@@ -26,7 +26,7 @@ export const wedding = {
   parents: {
     groom: {
       en: 'Mr. Ear Kimsea & Mrs. Song Sreymom',
-      km: 'លោក អៀរ គឹមសា និង លោកស្រី សុង ស្រីមុំ',
+      km: 'លោក អៀរ គីមសៀ និង លោកស្រី សុង ស្រីមុំ',
     },
     bride: {
       en: 'Mr. Samang Eksambor & Mrs. Chhun Sopha',
